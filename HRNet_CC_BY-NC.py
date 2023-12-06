@@ -1,14 +1,10 @@
-#!/home/adityakillekar/anaconda3/bin/python
 # -*- coding: utf-8 -*-
 
 """
 Model definition
 """
 
-__author__ = "Aditya Killekar"
 __license__ = "CC BY-NC"
-__maintainer__ = "Aditya Killekar"
-__email__ = "Aditya.Killekar@cshs.org"
 __status__ = "Dev"
 
 
