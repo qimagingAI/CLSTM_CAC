@@ -9,8 +9,7 @@ Recent advancements in artificial intelligence (AI) have potentially enabled the
 ## CAC model
 Coronary artery Calcium (CAC) automatically processed with the CLSTM-CAC model using the HRNet_CC_BY-NC.py.
 
-## Heart chamber segmentation model
-TotalSegmentator v1  generated segmentation of cardiac chamber volumes and mass. (https://github.com/wasserth/TotalSegmentator)
+
 
 ## References
 
@@ -18,4 +17,4 @@ TotalSegmentator v1  generated segmentation of cardiac chamber volumes and mass.
 1. Miller, R.J., Shanbhag A., et al. Deep learning coronary artery calcium scores from SPECT/CT attenuation maps improves prediction of major adverse cardiac events. J Nucl Med 64, 652-658 (2023). 
 2. Pieszko, K., Shanbhag A., et al. Deep Learning of Coronary Calcium Scores From PET/CT Attenuation Maps Accurately Predicts Adverse Cardiovascular Events. JACC Cardiovasc Imaging 16, 675-687 (2023)
 3. Killekar A, et al :	arXiv:2104.00138 (2022)
-4. Wasserthal, J., et al. TotalSegmentator: robust segmentation of 104 anatomical structures in CT images. arXiv preprint arXiv:2208.05868 (2022). 
+ 
