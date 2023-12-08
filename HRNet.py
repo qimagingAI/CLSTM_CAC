@@ -4,7 +4,6 @@
 Model definition
 """
 
-__license__ = "CC BY-NC"
 __status__ = "Dev"
 
 
