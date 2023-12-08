@@ -11,9 +11,17 @@ Coronary artery Calcium (CAC) automatically processed with the CLSTM-CAC model u
 ![Alt text](architecture.png)
 
 
+## System Requirements
+This model code is tested on Ubuntu 22.04 LTS Linux OS with Nvidia GeForce RTX 4090 (24Gb) GPU, and AMD Ryzen Threadripper PRO 5955WX 16-Cores.
+
+
+## Python Dependencies
+```
+torch==1.13.1
+torchvision==0.14.1
+```
 
 ## References
-
 
 1. Miller, R.J., Shanbhag A., et al. Deep learning coronary artery calcium scores from SPECT/CT attenuation maps improves prediction of major adverse cardiac events. J Nucl Med 64, 652-658 (2023). 
 2. Pieszko, K., Shanbhag A., et al. Deep Learning of Coronary Calcium Scores From PET/CT Attenuation Maps Accurately Predicts Adverse Cardiovascular Events. JACC Cardiovasc Imaging 16, 675-687 (2023)
