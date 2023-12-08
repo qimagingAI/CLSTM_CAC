@@ -35,8 +35,7 @@ pip3 install -r requirements.txt
 
 
 ## References
-
-1. Miller, R.J., Shanbhag A., et al. Deep learning coronary artery calcium scores from SPECT/CT attenuation maps improves prediction of major adverse cardiac events. J Nucl Med 64, 652-658 (2023). 
+1. Miller, R.J., Shanbhag A., et al. Deep learning coronary artery calcium scores from SPECT/CT attenuation maps improves prediction of major adverse cardiac events. J Nucl Med 64, 652-658 (2023)
 2. Pieszko, K., Shanbhag A., et al. Deep Learning of Coronary Calcium Scores From PET/CT Attenuation Maps Accurately Predicts Adverse Cardiovascular Events. JACC Cardiovasc Imaging 16, 675-687 (2023)
-3. Killekar A, et al :	arXiv:2104.00138 (2022)
+3. Killekar, Aditya, et al. "COVID-19 lesion segmentation using convolutional LSTM for self-attention." Medical Imaging 2022: Image Processing. Vol. 12032. SPIE, 2022
  
